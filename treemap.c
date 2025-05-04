@@ -229,5 +229,5 @@ Pair * nextTreeMap(TreeMap * tree) {
         }
         else aux = aux->parent;
     }
-    
+    return NULL;   
 }
